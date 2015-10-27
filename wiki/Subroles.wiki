@@ -17,6 +17,8 @@ Subroles in slack are an example of the [http://en.wikipedia.org/wiki/Inheritanc
 
 Slack will install a different `/etc/daemon.conf` when called for `myrole`, `myrole.foo`, `myrole.foo.bar`, or `myrole.quux`, but will install the same `/etc/otherdaemon.conf` every time. 
 
+Blah blah blah
+
 == Features ==
 
   * Subroles are denoted by dots in a role name passed to slack.
